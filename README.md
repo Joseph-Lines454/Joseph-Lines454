@@ -2,7 +2,7 @@
 
 My name is Joseph, I have just graduated from university with a degree in Software Engineering (2:1) and I am looking for my first role in the industry.
 
-- 🔭 I’m currently working on my new website portfolio!
+- 🔭 I’m currently working on my enigma machine!
 - 🌱 I’m currently making adaptations to some of my projects to further develop my skills.
 - 💬 Ask me about how an Enigma Machine Works! Check it out [here](https://github.com/Joseph-Lines454/Enigma-Machine)
 - 📫 Email me at joelines194@gmail.com
